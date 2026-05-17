@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Examen 3 - Diseño e Implementación de Servicios Telemáticos
 
 ## Descripción del Proyecto
@@ -15,3 +16,7 @@ Para recrear y desplegar este servicio de forma idéntica en cualquier servidor 
    ```bash
    git clone https://github.com/ToroAdmin4/telematica_examen3.git
    cd proyecto-examen
+=======
+# telematica_examen3
+Repositorio donde se veran las evidencias de la realización del examen 3 del curso de telematica
+>>>>>>> fdfffa9d1c00954a614f35d7d0c646284cd59839
